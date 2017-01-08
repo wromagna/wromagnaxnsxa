@@ -10,7 +10,7 @@ public function inicializar()
 	$x=1;
 	$y=1;
 	$z=1;
-	$fx=20;
+	$fx=20;//dimensiona
 	$fy=20;
 	$fz=20;
 	for($x=1;$x<$fx;$x++)
